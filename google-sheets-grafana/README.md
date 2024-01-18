@@ -3,7 +3,7 @@
 This repository contains the source code for a Grafana dashboard that can be used to track your daily exercise routines and other side activities.
 
 ## Getting Started
-The dashboard and required Google sheet data source is best described in this article [medium article]([https://medium.com/@Dee.N](https://medium.com/@Dee.N/turn-your-daily-tasks-into-actionable-insights-a-guide-to-creating-a-simple-and-no-code-dashboard-2696b67087c8))
+The dashboard and required Google sheet data source is best described in this article [medium article](https://medium.com/@Dee.N/turn-your-daily-tasks-into-actionable-insights-a-guide-to-creating-a-simple-and-no-code-dashboard-2696b67087c8))
 
 ## Dashboard Overview
 
